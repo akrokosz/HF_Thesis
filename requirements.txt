@@ -1,0 +1,10 @@
+lightning
+pandas
+pytorch-forecasting
+yfinance
+stock-indicators
+scikit-learn
+matplotlib
+numpy
+scipy
+cvxopt
